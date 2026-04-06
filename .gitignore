@@ -1,0 +1,5 @@
+dist/
+shellcode.bin
+*.o
+*.so
+*.elf
